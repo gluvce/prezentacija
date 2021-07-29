@@ -2,7 +2,7 @@ linija 1
 промена 1
 linija 2
 линија 3
-променето од Тони
+zaednicka promena od Toni i Aleksandar
 test dokument
 промена 2
 крај

@@ -2,3 +2,4 @@ linija 1
 linija 2
 линија 3
 test dokument
+крај
